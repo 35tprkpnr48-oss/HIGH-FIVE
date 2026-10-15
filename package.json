@@ -1,0 +1,1 @@
+{ "name": "otoyol-multiplayer", "version": "1.0.0", "description": "Otoyol Surucusu multiplayer sunucusu (bagimlilik yok)", "main": "server.js", "scripts": { "start": "node server.js" }, "engines": { "node": ">=16" } }
