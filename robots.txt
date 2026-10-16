@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://high-five-drivingoops.onrender.com/sitemap.xml
